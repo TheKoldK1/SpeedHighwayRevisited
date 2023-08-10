@@ -1,3 +1,6 @@
+## Speed Highway Revisited V1.15.1
+- Added motion blur through the stage's Scene Effect file.
+
 ## Speed Highway Revisited V1.15
 - Further boost volume adjstments
 
